@@ -1,16 +1,14 @@
-# untitled3
+# Thesus
 
-A new Flutter project.
+A new Flutter project which produces the report of long research papers or thesis in some seconds only.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+* Just write the name of the article( and authors if you want )  and you will get report of your thesis you want.
+* You can customize the your report, can get what you want in your report
 
-A few resources to get you started if this is your first Flutter project:
+# Underdevelopement
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*  You can download the excel sheet of multiple reports on a single click.
+*  You can create your account and access your previous work on any  platfrom and from any place.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
