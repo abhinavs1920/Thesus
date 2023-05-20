@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "375869926446",
+    "project_id": "thesus-73db8",
+    "storage_bucket": "thesus-73db8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375869926446:android:b7321504e3d84890c343bf",
+        "android_client_info": {
+          "package_name": "com.example.untitled3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375869926446-k67o0m2048ovlq9b8dafmjlgf4aqtauc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJVIcBkZO1h182Ycq3GEaza2IDFoQJDfw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "375869926446-k67o0m2048ovlq9b8dafmjlgf4aqtauc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
