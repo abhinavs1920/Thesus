@@ -1,14 +1,13 @@
-# Thesus
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
 
-A new Flutter project which produces the report of long research papers or thesis in some seconds only.
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
 
-## Features
-
-* Just write the name of the article( and authors if you want )  and you will get report of your thesis you want.
-* You can customize the your report, can get what you want in your report
-
-### Under developement
-
-*  You can download the excel sheet of multiple reports on a single click.
-*  You can create your account and access your previous work on any  platfrom and from any place.
+</body>
+</html>
 
