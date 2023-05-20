@@ -7,7 +7,7 @@ A new Flutter project which produces the report of long research papers or thesi
 * Just write the name of the article( and authors if you want )  and you will get report of your thesis you want.
 * You can customize the your report, can get what you want in your report
 
-### Underdevelopement
+### Under developement
 
 *  You can download the excel sheet of multiple reports on a single click.
 *  You can create your account and access your previous work on any  platfrom and from any place.
